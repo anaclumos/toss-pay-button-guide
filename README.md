@@ -22,7 +22,7 @@
 
 1. `apiKey` 만들기
     [https://toss.im/transfer-web/linkgen/request-apikey](https://toss.im/transfer-web/linkgen/request-apikey)에 접속해서 API Key 발급
-2. 송금 받을 API Key, 은행명, 계좌번호, 금액, 메시지를 아래 코드의 `values`에 넣어 `python`로 실행하기
+1. 송금 받을 API Key, 은행명, 계좌번호, 금액, 메시지를 아래 코드의 `values`에 넣어 `python`으로 실행하기
     ```python
     #-*- coding: utf-8 -*-
 
@@ -53,4 +53,4 @@
 
     print(response_body)
     ```
-3. 반환되는 값에서 `link` 값이 송금 링크.
+1. 반환되는 값에서 `link` 값이 송금 링크.
