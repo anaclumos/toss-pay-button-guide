@@ -1,3 +1,10 @@
+# Updated 2021
+
+Use [Toss ID](https://toss.me/).
+
+Example: [toss.me/anaclumos](https://toss.me/anaclumos)
+
+
 ### [☕️ 커피 사주기](https://toss.im/_m/ZLAYjZ2q)
 
 # 토스 송금 링크 만들기 가이드
